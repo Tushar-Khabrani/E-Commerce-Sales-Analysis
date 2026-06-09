@@ -81,7 +81,7 @@ Power BI and Tableau.
 
 ### Power BI — Sales Overview Dashboard
 
-![Power BI Overview](dashboards/screenshots/powerbi_overview.png)
+![Power BI Overview](e-commerce/dashboards/screenshots/powerbi_overview.png)
 
 KPI cards: ₹436.83M revenue · 8K customers · 22.41K items · ₹53.78K AOV · 3 repeat customers | Monthly revenue + items trend | City-wise revenue — Delhi leads ₹30M+ | Top products: iPhone 12 · iPhone 13 · Headphones | Payment method donut: Cash 23.95% · COD 22.08% · Net Banking 18.33% · UPI 17.7% | Daily revenue trend line
 
@@ -89,7 +89,7 @@ KPI cards: ₹436.83M revenue · 8K customers · 22.41K items · ₹53.78K AOV �
 
 ### Power BI — Category & Customer Revenue Dashboard
 
-![Power BI Category](dashboards/screenshots/powerbi_category.png)
+![Power BI Category](e-commerce/dashboards/screenshots/powerbi_category.png)
 
 Electronics dominated total revenue | Stacked bar — payment method split across 4 categories | Customer table: top spender Anika ₹13,56,530 (Jaipur) | Interactive filters: category · payment method · city · date hierarchy (Year → Quarter → Month → Day)
 
@@ -97,7 +97,7 @@ Electronics dominated total revenue | Stacked bar — payment method split acros
 
 ### Tableau — ECOM_SALES Dashboard
 
-![Tableau Dashboard](dashboards/screenshots/tableau_dashboard.png)
+![Tableau](e-commerce/dashboards/screenshots/tableau_dashboard.png)
 
 KPI summary: ₹436.83M · 8,127 orders · 22,413 items · 8,124 customers | City revenue bar chart | Category revenue | Monthly trends | Payment method split | Top customers by revenue | Filter toggle: Card · Cash · COD · Net Banking · UPI
 
