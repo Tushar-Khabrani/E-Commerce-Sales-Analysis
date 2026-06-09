@@ -54,17 +54,17 @@ End-to-end e-commerce sales analysis on a raw orders dataset using **MySQL** for
 ## 📈 Dashboards
 
 ### Power BI — Sales Overview Dashboard
-![Power BI Overview](dashboards/powerbi_overview.png.png)
+![Power BI Overview](dashboards/powerbi_overview.png)
 
 KPI cards: ₹436.83M revenue · 8K customers · 22.41K items · ₹53.78K AOV · 8K orders · 3 repeat customers | Monthly revenue + items trend | City-wise revenue (Delhi leads at ~₹30M) | Top products: iPhone 12, iPhone 13, Headphones | Payment method donut chart | Daily revenue trend line
 
 ### Power BI — Category & Customer Dashboard
-![Power BI Category](dashboards/powerbi_category.png.png)
+![Power BI Category](dashboards/powerbi_category.png)
 
 Customer-level revenue table (Anika tops at ₹13,56,530) | Category revenue bar — Electronics dominant | Payment method stacked bar across all 4 categories | Interactive filters: category · payment method · city · date hierarchy
 
 ### Tableau — ECOM_SALES Dashboard
-![Tableau Dashboard](dashboards/tableau_dashboard.png.png)
+![Tableau Dashboard](dashboards/tableau_dashboard.png)
 
 KPI summary: ₹436.83M revenue · 8,127 orders · 22,413 items · 8,124 customers | City revenue (Ahmedabad, Bangalore, Bhopal shown) | Category revenue chart | Monthly trend line | Daily trend Jan–Oct 2024 | Top customers by revenue | Payment method pie chart
 
