@@ -53,8 +53,7 @@ End-to-end e-commerce sales analysis on a raw orders dataset using **MySQL** for
 
 ## 📈 Dashboards
 
-### Power BI — Sales Overview Dashboard
-![Power BI Overview](dashboards/powerbi_overview.png)
+[📊 Power BI Overview Dashboard — Click to view](https://raw.githubusercontent.com/Tushar-Khabrani/ecommerce-sales-analysis/main/dashboards/powerbi_overview.png)
 
 KPI cards: ₹436.83M revenue · 8K customers · 22.41K items · ₹53.78K AOV · 8K orders · 3 repeat customers | Monthly revenue + items trend | City-wise revenue (Delhi leads at ~₹30M) | Top products: iPhone 12, iPhone 13, Headphones | Payment method donut chart | Daily revenue trend line
 
